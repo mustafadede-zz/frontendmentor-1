@@ -44,6 +44,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@mustafadede](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mustafadede](https://www.frontendmentor.io/profile/mustafadede)
 - Linkedin - [Mustafa Dede](https://www.linkedin.com/in/mustafa-dede-9a38a1192/)
 
